@@ -1,6 +1,6 @@
 # Hi, I'm Amir 👋
 
-💻 Computer Science Student
+💻 Software Engineering Student
 📚 Currently learning and exploring programming
 🌎 Fluent in English
 
